@@ -9,5 +9,6 @@
 - Introdução ao Desenvolvemento de Sotwere [scesse o curso](https://web.dio.me/course/introducao-a-programacao-e-pensamento-computacional/learning/285a4323-c6b0-4233-988e-4a2954065de3?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 - Introdução a programçao e pensamento computacional - [acesse o curso](https://web.dio.me/course/introducao-a-programacao-e-pensamento-computacional/learning/285a4323-c6b0-4233-988e-4a2954065de3?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
  - Introdução a Plataforma Java - [acesse o curso](https://web.dio.me/course/introducao-a-plataforma-java/learning/cdc0426c-9371-4af8-aaf0-23fffca6218f?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
+ - Ambiente de Desenvolvimento Java [acesse o curso](https://web.dio.me/course/ambiente-de-desenvolvimento-java/learning/c88e693f-67ca-4885-a1d1-0069da2aef10?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 
 Alterando o conteudo de um arquivo de forma local
